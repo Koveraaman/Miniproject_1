@@ -1,4 +1,4 @@
 streamlit
-psycopg2.9.10
+pg8000
 pandas
 plotly.express

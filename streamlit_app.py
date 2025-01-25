@@ -6,11 +6,11 @@ import plotly.express as px
 # ... (Your existing code for database connection and execute_query) ...
 def connect_to_db():
     return pg8000.connect(
-        host="raamdb.c3c2ywi2y9sh.ap-south-1.rds.amazonaws.com",
+        host="raamdb.c9qmcwaue6li.ap-south-1.rds.amazonaws.com",
         port="5432",
         database="postgres",
         user="postgres",
-        password="Qwerty8667392330"
+        password="#Raam123456789"
     )
 
 # Function to execute a query and return a DataFrame

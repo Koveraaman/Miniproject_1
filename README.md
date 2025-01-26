@@ -34,7 +34,7 @@ Required Python packages (see below for installation)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/streamlit-sales-dashboard.git
+git clone https://github.com/Koveraaman/streamlit-sales-dashboard.git
 cd streamlit-sales-dashboard
 
 Install dependencies:
